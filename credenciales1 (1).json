@@ -1,0 +1,6 @@
+{
+ "user":"root",
+ "password":"password",
+ "servidor": "localhost", 
+ "base_de_datos": "netflix"
+}
